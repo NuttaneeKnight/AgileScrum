@@ -1,4 +1,4 @@
-**The World Before Agile & Scrum**
+# The World Before Agile & Scrum
 
 Learning Objectives:
 1. What was wrong with traditional methods of project management
@@ -18,7 +18,7 @@ Flaws of the Waterfall method
 - Defects found too late, usually during the test phase, usually requires more time to test.
 
 
-**The Birth of Agile/Umbrella**
+# The Birth of Agile/Umbrella
 
 With Iteration the company can
 - Release a few features early
@@ -29,7 +29,7 @@ With Iteration the company can
 - Lightweight / simple solutions
 - The meeting of all the heads lead to the Agile Manifesto
 
-**Manifesto for Agile Software Develpemnt** 
+# Manifesto for Agile Software Develpemnt
 
 We are uncovering better ways of developing software by doing it and helping others to o it. Through this work we have come to value:
 
@@ -40,7 +40,7 @@ Respondding to change                                                       Foll
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
-**Introducing Scrum**
+# Introducing Scrum
 
 Learning Objectives
 1. What Scrum is
@@ -48,13 +48,13 @@ Learning Objectives
 3. An overview of the Scrum practices
 4. Scrum Guide Gotchas
 
-Introducing Scrum
+# Introducing Scrum
 
 - What is Scrum? A framework for developing and sustaining complex products
 - A Self Managing Cross Functional TEAMS - PM doesn't count as a team but help with decision making 
 - the work is through iteration
 
-Scrum Theory
+# Scrum Theory
 - Based on Empirical Process Control Theory
     - iterative
     -incremental
@@ -62,3 +62,7 @@ Scrum Theory
     1. Transparency (done means done)
     2. Inspection (check on progress)
     3. Adaptation (change the productbased on inspection)
+
+# The Scrum Skeleton
+Backlog >> break it down to backlog tasks and make a sprint, hs to be less than 30 days >> Products
+
