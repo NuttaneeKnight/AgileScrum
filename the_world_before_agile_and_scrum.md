@@ -5,10 +5,11 @@ Learning Objectives:
 2. What the Waterfall Model is and Why it is less flexible than Agile
 3. What Agile is & How it differs from Scrum
 
-The Waterfall Model
+The Waterfall Model (The diagram looks like a waterfall)
 - Analysis
-- Requirements specifications
-- Design
-- Implementation
-- Testing and integration
-- Operation and Maintenance
+    - Requirements specifications
+        - Design
+            - Implementation
+                - Testing and integration
+                    - Operation and Maintenance
+
