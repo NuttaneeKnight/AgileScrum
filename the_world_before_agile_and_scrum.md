@@ -19,3 +19,10 @@ Flaws of the Waterfall method
 
 
 **The Birth of Agile**
+
+With Iteration the company can
+- Release a few features early
+- Make some early R.O.I
+- Discover potential issues early
+- Change requirements often
+- React tt change through replanning (people pinching) 
