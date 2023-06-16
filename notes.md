@@ -5,3 +5,14 @@
 2. What didn't?
 3. What could we do differently?
 
+There are serveral Agile Roles
+- Scrum Master
+- Scrum Coach
+- Agile Coach
+- Agile PM
+- Agile BA
+- Agile Product Manager
+- Agile Operations Lead
+- Senior Scrum Master
+- Agile Delivvery Manager
+- Agile Product Lead
