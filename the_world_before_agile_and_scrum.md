@@ -13,3 +13,9 @@ The Waterfall Model (The diagram looks like a waterfall)
                 - Testing and integration
                     - Operation and Maintenance
 
+Flaws of the Waterfall method
+- Changing requirements affact the deadline
+- Defects found too late, usually during the test phase, usually requires more time to test.
+
+
+**The Birth of Agile**
