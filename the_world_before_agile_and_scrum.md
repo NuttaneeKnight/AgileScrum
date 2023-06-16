@@ -82,4 +82,5 @@ Key Points : Building a webpage may not be for it, overkill
 1. Planning out with a team
 2. Having a retrospective
 3. Having a sprint review
+4. Scru, is Mainly effective for Complex Projects
 
