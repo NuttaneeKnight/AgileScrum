@@ -84,3 +84,13 @@ Key Points : Building a webpage may not be for it, overkill
 3. Having a sprint review
 4. Scru, is Mainly effective for Complex Projects
 
+Scrum official definition:
+
+Scrum: A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value. 
+
+- Inspecting
+- Adapting
+- Improving
+- Delivering (often)
+
+
