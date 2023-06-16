@@ -18,7 +18,7 @@ Flaws of the Waterfall method
 - Defects found too late, usually during the test phase, usually requires more time to test.
 
 
-**The Birth of Agile**
+**The Birth of Agile/Umbrella**
 
 With Iteration the company can
 - Release a few features early
@@ -26,3 +26,17 @@ With Iteration the company can
 - Discover potential issues early
 - Change requirements often
 - React tt change through replanning (people pinching) 
+- Lightweight / simple solutions
+- The meeting of all the heads lead to the Agile Manifesto
+
+**Manifesto for Agile Software Develpemnt** 
+
+We are uncovering better ways of developing software by doing it and helping others to o it. Through this work we have come to value:
+
+Individuals and ineractions                     OVER                        Processes and tools
+Working software                                                            Comprehensive documentation
+Customer collaboration                                                      Contract negotiation
+Respondding to change                                                       Following a plan
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
