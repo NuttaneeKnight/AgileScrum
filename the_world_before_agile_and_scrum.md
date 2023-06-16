@@ -66,3 +66,14 @@ Learning Objectives
 # The Scrum Skeleton
 Backlog initialize by product owner >> break it down to backlog tasks and make a sprint, hs to be less than 30 days >> Products
 
+# Self Managing Teams & Lean
+
+Self-Managing over Self-Organizing
+
+Scrum teams are self-managing, choosing who does the work, how, and what to work on.
+
+Lean Thinking
+
+As well as Empiricism, Scrum is founded on Lean Thinking. Lean thinking reduces waste and focuses on the essentials. as you will see Scrum removes waste (impediments) and prioritises value (essentials).
+
+**Scrum is a framework for developing and sustaining complexproducts**
