@@ -77,3 +77,9 @@ Lean Thinking
 As well as Empiricism, Scrum is founded on Lean Thinking. Lean thinking reduces waste and focuses on the essentials. as you will see Scrum removes waste (impediments) and prioritises value (essentials).
 
 **Scrum is a framework for developing and sustaining complexproducts**
+
+Key Points : Building a webpage may not be for it, overkill
+1. Planning out with a team
+2. Having a retrospective
+3. Having a sprint review
+
