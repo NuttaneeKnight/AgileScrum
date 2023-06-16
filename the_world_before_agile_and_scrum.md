@@ -40,3 +40,11 @@ Respondding to change                                                       Foll
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
+**Introducing Scrum**
+
+Learning Objectives
+1. What Scrum is
+2. What the core theory of Scrum is
+3. An overview of the Scrum practices
+4. Scrum Guide Gotchas
+
