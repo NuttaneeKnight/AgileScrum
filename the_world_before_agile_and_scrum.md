@@ -64,5 +64,5 @@ Learning Objectives
     3. Adaptation (change the productbased on inspection)
 
 # The Scrum Skeleton
-Backlog >> break it down to backlog tasks and make a sprint, hs to be less than 30 days >> Products
+Backlog initialize by product owner >> break it down to backlog tasks and make a sprint, hs to be less than 30 days >> Products
 
