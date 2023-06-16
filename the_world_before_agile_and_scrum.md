@@ -48,3 +48,17 @@ Learning Objectives
 3. An overview of the Scrum practices
 4. Scrum Guide Gotchas
 
+Introducing Scrum
+
+- What is Scrum? A framework for developing and sustaining complex products
+- A Self Managing Cross Functional TEAMS - PM doesn't count as a team but help with decision making 
+- the work is through iteration
+
+Scrum Theory
+- Based on Empirical Process Control Theory
+    - iterative
+    -incremental
+- Consists of 3 principles
+    1. Transparency (done means done)
+    2. Inspection (check on progress)
+    3. Adaptation (change the productbased on inspection)
