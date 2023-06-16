@@ -16,3 +16,5 @@ There are serveral Agile Roles
 - Senior Scrum Master
 - Agile Delivvery Manager
 - Agile Product Lead
+
+- Agile in a nutshell: Product Backlog >> Iteration/Sprint BackLog (Iteration/Sprint 2 weeks with daily meeting) >> Product Increment. 
